@@ -19,3 +19,9 @@ Python + Selenium + Pytest + WebDriverWait（显式等待）
 
 ## 项目结构
 fixture统一放在conftest.py中管理，测试用例按页面/功能模块拆分文件
+
+## 测试结果
+
+11条测试用例全部通过。
+
+![测试报告](./test-report.png)
